@@ -1,0 +1,6 @@
+1. Create an abstract class pen with methods write () and refill () as abstract methods 
+2. Create an class monkey with jump ( ) and bite ( ) methods Create a class human which inherits this monkey class and implements basic animal interface with eat ( ) and sleep methods 
+3. Create a class telephone with ( ) , lift ( ) and disconnected ( ) methods as abstract methods create another class smart telephone and demonstrate polymorphism 
+4. Demonstrate polymorphism using using monkey  class from Q2
+5. Create an interface TVremote and use it to inherit another interface smart TVremote 
+6. Create a class TV which implements TVremote interface from Q5
